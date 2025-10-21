@@ -1,0 +1,13 @@
+# Frontend Dependencies
+frontend/node_modules/
+
+# Backend/Java Files
+*.class
+# IntelliJ Project Files (מומלץ)
+.idea/
+target/
+build/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
