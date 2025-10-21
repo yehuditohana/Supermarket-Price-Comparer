@@ -1,0 +1,66 @@
+<Chains>
+    <Chain>
+        <ChainId>7290027600007</ChainId>
+        <ChainName>שופרסל</ChainName>
+        <SubChains>
+            <SubChain>
+                <SubChainId>1</SubChainId>
+                <SubChainName>שופרסל שלי</SubChainName>
+            </SubChain>
+            <SubChain>
+                <SubChainId>2</SubChainId>
+                <SubChainName>שופרסל דיל</SubChainName>
+            </SubChain>
+            <SubChain>
+                <SubChainId>3</SubChainId>
+                <SubChainName>ללא שם</SubChainName>
+            </SubChain>
+            <SubChain>
+                <SubChainId>4</SubChainId>
+                <SubChainName>שופרסל דיל אקסטרא</SubChainName>
+            </SubChain>
+            <SubChain>
+                <SubChainId>7</SubChainId>
+                <SubChainName>שופרסל אקספרס</SubChainName>
+            </SubChain>
+            <SubChain>
+                <SubChainId>8</SubChainId>
+                <SubChainName>ללא שם</SubChainName>
+            </SubChain>
+            <SubChain>
+                <SubChainId>18</SubChainId>
+                <SubChainName>ללא שם</SubChainName>
+            </SubChain>
+        </SubChains>
+    </Chain>
+    <Chain>
+        <ChainId>7290058140886</ChainId>
+        <ChainName>רמי לוי שיווק השקמה</ChainName>
+        <SubChains>
+            <SubChain>
+                <SubChainId>1</SubChainId>
+                <SubChainName>1</SubChainName>
+            </SubChain>
+        </SubChains>
+    </Chain>
+    <Chain>
+        <ChainId>7290696200003</ChainId>
+        <ChainName>ויקטורי</ChainName>
+        <SubChains>
+            <SubChain>
+                <SubChainId>1</SubChainId>
+                <SubChainName>ויקטורי</SubChainName>
+            </SubChain>
+        </SubChains>
+    </Chain>
+    <Chain>
+        <ChainId>7290055700007</ChainId>
+        <ChainName>מגה בעיר</ChainName>
+        <SubChains>
+            <SubChain>
+                <SubChainId>1</SubChainId>
+                <SubChainName>1</SubChainName>
+            </SubChain>
+        </SubChains>
+    </Chain>
+</Chains>
